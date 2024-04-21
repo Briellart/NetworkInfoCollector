@@ -8,6 +8,8 @@ Timezone Information: The script can determine the timezone based on latitude an
 
 Detailed Connection Information: The script provides detailed information about each network connection, including the process name and process ID.
 
+useful for monitoring hidden processes, which are not shown in the task manager 
+
 Usage
 To use this script, simply run NetworkInfoCollector.py. The script will continuously monitor the network connections on your machine and print information about them to the console.
 
